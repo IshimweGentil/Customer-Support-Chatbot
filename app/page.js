@@ -1,5 +1,6 @@
 'use client'
 import Image from "next/image";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { useState } from "react";
 import { Box, Button, TextField, Stack } from '@mui/material'
 
